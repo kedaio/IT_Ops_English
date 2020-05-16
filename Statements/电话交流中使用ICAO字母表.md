@@ -19,7 +19,8 @@ G | Golf | N | November | U | Uniform |  |  |
 同样ICAO也有关于数字发音的规范或者建议：
 
 Phonetic Numbers
-|---|---|
+|数字|读音|数字|读音|
+|---|---||---|---|
 |1 | WUN    |6 | SIX     |
 |2 | TOO    |7 | SEV-en  |
 |3 | TREE   |8 | AIT     |
@@ -34,20 +35,20 @@ Phonetic Numbers
 |---|---|---|---|---|---|
 |  | Space||                  | /| Slash||
 | !| Exclamation||            | :| Colon||
-| ”| Double| quote||          | ;| Semicolon||
-| #| Number| sign| (hash)||   | <| Less| than||
-| $| Dollar| sign||           | =| Equal| sign||
+| ”| Double quote||           | ;| Semicolon||
+| #| Number sign (hash)||     | <| Less than||
+| $| Dollar sign||            | =| Equal sign||
 | %| Percent||                | >| Greater| than||
 | &| Ampersand||              | ?| Question| mark||
-| ’| Single| quote||          | @| At| sign||
-| (| Left| parenthesis||      | [| Left| bracket||
-| )| Right| parenthesis||     | \| Backslash||
-| *| Asterisk||               | ]| Right| bracket||
+| ’| Single quote||           | @| At sign||
+| (| Left  parenthesis||      | [| Left bracket||
+| )| Right  parenthesis||     | \| Backslash||
+| *| Asterisk||               | ]| Right bracket||
 | +| Plus||                   | ^| Caret||
 | ,| Comma||                  | _| Underscore||
-| -| Minus||                  | `| Grave| accent| (backtick)||
-| .| Full| stop||             |\|| Vertical| bar||
-| }| Right| brace||           | {| Left| brace||                   
+| -| Minus||                  | `| Grave accent (backtick)||
+| .| Full stop||             |\|| Vertical bar||
+| }| Right  brace||           | {| Left  brace||                   
 | ~| Tilde||                             
                              
 
