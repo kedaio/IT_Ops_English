@@ -19,23 +19,19 @@ G | Golf | N | November | U | Uniform |  |  |
 同样ICAO也有关于数字发音的规范或者建议：
 
 Phonetic Numbers
+|---|---|
+|1 | WUN    |6 | SIX     |
+|2 | TOO    |7 | SEV-en  |
+|3 | TREE   |8 | AIT     |
+|4 | FOW-er |9 | NIN-er  |
+|5 | FIFE   |0 | ZEE-RO  |
 
-1 – WUN
-2 – TOO
-3 – TREE
-4 – FOW-er
-5 – FIFE
-6 – SIX
-7 – SEV-en
-8 – AIT
-9 – NIN-er
-0 – ZEE-RO
 
 对于运维运维人员来说，出了ICAO字母数字之外，还有特殊字符或者说标点符号。
 密码中或者命令里，URL里也可能会出现任意特殊字符。也需要我们有所了解。
 
-|| 字符| 英文名|中文名称| 字符| 英文名 |中文名称||
-
+| 字符| 英文名|中文名称| 字符| 英文名 |中文名称|
+|---|---|---|---|---|---|
 |  | Space||                  | /| Slash||
 | !| Exclamation||            | :| Colon||
 | ”| Double| quote||          | ;| Semicolon||
