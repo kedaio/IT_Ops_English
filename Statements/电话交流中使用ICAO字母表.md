@@ -6,7 +6,8 @@ ICAO字母表是国际航空组织为了防止语音通话中听错（B/D， C/E
 
 ![ICAO Alphabet](../images/Icao_Alphabet.jpg)
 
-||字母|对应单词|字母|对应单词|字母|对应单词|字母|对应单词||
+|字母|对应单词|字母|对应单词|字母|对应单词|字母|对应单词|
+|---|---|---|---|---|---|---|---|
 A | Alpha | H | Hotel | O | Oscar | V | Victor |
 B | Bravo | I | India | P | Papa | W | Whiskey |
 C | Charlie | J | Juliet | Q | Quebec | X | X-ray |
